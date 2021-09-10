@@ -128,6 +128,7 @@
     "testEnvironment": "node",
     "testPathIgnorePatterns": [
       "/node_modules/",
+      "/vendor/",
       "/lib/",
       "/out/",
       "test/e2e"
